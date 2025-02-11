@@ -36,3 +36,17 @@ documents = [
     )
     for _, row in journal_df_cleaned.iterrows()
 ]
+
+# Embedding Model
+os.environ["DATABRICKS_TOKEN"]= 'dapi63b336cd17ab796561b3340474f959e1-3'
+db_embeddings = DatabricksEmbeddings(endpoint="databricks-bge-large-en")
+
+# Create Index- Load documents into the vectorstore
+faiss_vectorstore = FAISS.from_documents(
+    documents= documents,
+    embedding= db_embeddings,
+)
+
+persist_director= "xxxx"
+persist_dir = os.path.join(persist_directory, "faiss_index")
+faiss_vectorstore.save_local(persist_dir)
