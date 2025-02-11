@@ -8,9 +8,11 @@ Welcome to the repository for the **first-ever Agentic Retrieval-Augmented Gener
 - **Web Search Fallback**: If the desired information is not found in the literature, the system automatically activates a web search to retrieve the necessary data.
 - **Hallucination Prevention**: By integrating judges/graders powered by reasoning LLMS, the system minimizes the risk of generating inaccurate or fabricated information.
 - **Flowchart Logic**: A detailed flowchart is included to demonstrate the system's overall flow.
-<div style="text-align: center;">
+  
+<div style="text-align: center ">
   <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/e8c1ba1a748eb4bc7382ea4a6655dfe053b738ee/z_Pics/Logic%20Flow.png" width="800" height="auto">
 </div>
+
 - **Screenshots**: Screenshots are provided to showcase the system's functionality and user interface. (Placeholder for screenshot demo)
 
 ## Collaboration
