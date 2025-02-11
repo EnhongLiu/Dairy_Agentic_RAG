@@ -15,8 +15,11 @@ Welcome to the repository for the **first-ever Agentic Retrieval-Augmented Gener
 This project is a collaborative effort involving professors from various departments at Cornell University, including:
 - **Veterinary Medicine (Vet)**
 - **Animal Science**
-- 
+  
 This project has received full support from the President of the American Dairy Science Association (ADSA), along with numerous professors and members of the association, who have contributed their expertise and encouragement to its development.
 And has been fully supported by the president, along with many other professors and memember, of American Dairy Science Association
+
+
+## Contact
 
 For any inquiries, please contact [Enhong Liu] at [el839l@cornell.edu].
