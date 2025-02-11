@@ -1,0 +1,14 @@
+databricks-langchain
+langchain-community
+langchain
+langchainhub
+langgraph
+langchain_databricks
+databricks-sql-connector
+tiktoken
+streamlit
+faiss-cpu
+duckduckgo-search
+google-ai-generativelanguage
+langchain-google-genai
+transformers
