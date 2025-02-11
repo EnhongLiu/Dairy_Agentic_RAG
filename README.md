@@ -20,9 +20,9 @@ Welcome to the repository for the **first-ever Agentic Retrieval-Augmented Gener
 - **Responses to general questions** that fall outside the chatbot's scope or involve personal or sensitive information, handled with appropriate disclaimers.
 
 <div style="text-align: center ">
-  <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/a40de1cb1e4edd09575a023b5c6e77c604cdad98/z_Pics/literature_retrieve.png" width="700" height="auto">
-  <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/a40de1cb1e4edd09575a023b5c6e77c604cdad98/z_Pics/news_search.png" width="700" height="auto">
-  <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/a40de1cb1e4edd09575a023b5c6e77c604cdad98/z_Pics/personal_info.png" width="700" height="auto">
+  <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/a40de1cb1e4edd09575a023b5c6e77c604cdad98/z_Pics/literature_retrieve.png" width="800" height="auto">
+  <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/a40de1cb1e4edd09575a023b5c6e77c604cdad98/z_Pics/news_search.png" width="800" height="auto">
+  <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/a40de1cb1e4edd09575a023b5c6e77c604cdad98/z_Pics/personal_info.png" width="800" height="auto">
 </div>
 
 ## Collaboration
