@@ -13,7 +13,17 @@ Welcome to the repository for the **first-ever Agentic Retrieval-Augmented Gener
   <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/e8c1ba1a748eb4bc7382ea4a6655dfe053b738ee/z_Pics/Logic%20Flow.png" width="600" height="auto">
 </div>
 
+## Results Demo
 
+- **Scientific insights** with proper citations from peer-reviewed literature,
+- **News updates** with verified sources, and
+- **Responses to general questions** that fall outside the chatbot's scope or involve personal or sensitive information, handled with appropriate disclaimers.
+
+<div style="text-align: center ">
+  <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/a40de1cb1e4edd09575a023b5c6e77c604cdad98/z_Pics/literature_retrieve.png" width="600" height="auto">
+  <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/a40de1cb1e4edd09575a023b5c6e77c604cdad98/z_Pics/news_search.png" width="600" height="auto">
+  <img src="https://github.com/EnhongLiu/Agentic_RAG/blob/a40de1cb1e4edd09575a023b5c6e77c604cdad98/z_Pics/personal_info.png" width="600" height="auto">
+</div>
 
 ## Collaboration
 
@@ -25,4 +35,4 @@ This project has also received full support from the President of the American D
 
 ## Contact
 
-For any inquiries, please contact [Enhong Liu] at [el839l@cornell.edu].
+For any inquiries, please contact [Enhong Liu] at [el839@cornell.edu].
