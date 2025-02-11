@@ -1,5 +1,11 @@
-## Build vector store from chunks. Still, if chroma db realdy exists, just skip to load
+import os
+from langchain.vectorstores import FAISS, Chroma
+from langchain.schema import Document
+from langchain.embeddings import DatabricksEmbeddings
+from langchain.chat_models import ChatDatabricks
 
+
+## Build vector store from chunks. Still, if chroma db realdy exists, just skip to load
 # Embedding Model
 os.environ["DATABRICKS_TOKEN"]= 'xxxxx'
 embd = DatabricksEmbeddings(endpoint="databricks-bge-large-en")
