@@ -1,3 +1,6 @@
+from docling.document_converter import DocumentConverter
+from docling.chunking import HybridChunker
+
 ## Read in PDF example. If this has been done, just skip to read local chroma_db
 
 # Set up logging
