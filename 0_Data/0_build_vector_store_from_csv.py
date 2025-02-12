@@ -38,7 +38,7 @@ documents = [
 ]
 
 # Embedding Model
-os.environ["DATABRICKS_TOKEN"]= 'dapi63b336cd17ab796561b3340474f959e1-3'
+os.environ["DATABRICKS_TOKEN"]= 'xxx'
 db_embeddings = DatabricksEmbeddings(endpoint="databricks-bge-large-en")
 
 # Create Index- Load documents into the vectorstore
