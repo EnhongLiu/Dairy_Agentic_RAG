@@ -45,9 +45,9 @@ from pydantic import BaseModel, Field
 
 
 
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyD-jNfRVCijtlDpOWcPr4uoDuSUfpdekmE' ################## Hide ##########################
-os.environ['HF_TOKEN'] = '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' ######################### Hide ##########################
-os.environ["DATABRICKS_TOKEN"]= 'dapi9051c57c202f3ad21a44d756ab422d2f-3' ################## Hide ##########################
+os.environ['GOOGLE_API_KEY'] = 'xxx' ################## Hide ##########################
+os.environ['HF_TOKEN'] = 'xxx' ######################### Hide ##########################
+os.environ["DATABRICKS_TOKEN"]= 'xxxx' ################## Hide ##########################
 
 
 # Retriever Model
